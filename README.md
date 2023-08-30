@@ -28,5 +28,3 @@ Sou formado em Telecomunicações pelo Instituto Federal de Santa Catarina e atu
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/NicolasASC)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail)](mailto:nickaraujo04@gmail.com)
-
-![Snake animation](https://github.com/NicolasASC)
