@@ -3,7 +3,7 @@
 
 Sou formado em Telecomunicações pelo Instituto Federal de Santa Catarina e atualmente curso Análise e Desenvolvimento de Sistemas na UNISUL. Apaixonado pela programação, principalmente voltada as áreas de backend e banco de dados. Busco todo dia me superar, determinação é a chave!
 
-> “Seu tempo é limitado, então não o gaste vivendo a vida de outra pessoa.” JOBS, S.
+> “Your time is limited, so don't waste it living someone else's life.” JOBS, S.
 
 ## Habilidades
 
