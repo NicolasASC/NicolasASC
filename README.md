@@ -1,7 +1,7 @@
 
 # Olá! Meu nome é Nicolas Araújo
 
-Sou formado em Telecomunicações pelo Instituto Federal de Santa Catarina e atualmente curso Análise e Desenvolvimento de Sistemas na UNISUL. Apaixonado pelo desenvolvimento de software, programação backend e banco de dados. Busco todo dia me superar, determinação é a chave!
+Sou formado em Telecomunicações pelo Instituto Federal de Santa Catarina e atualmente curso Análise e Desenvolvimento de Sistemas na UNISUL. Apaixonado pelo desenvolvimento de softwares e soluções. Busco todo dia me superar, determinação é a chave!
 
 > “Your time is limited, so don't waste it living someone else's life.” JOBS, S.
 
